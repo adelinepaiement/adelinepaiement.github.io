@@ -5,11 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
+<div>You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u></div>
 
 New publications and preprints
 ======
@@ -32,8 +28,3 @@ Selected publications
 * A. Paiement, L. Tao, S. Hannuna, M. Camplani, D. Damen, M. Mirmehdi: Online quality assessment of human movement from skeleton data. Proceedings of British Machine Vision Conference (BMVC), 2014
 * A. Paiement, M. Mirmehdi, X. Xie, M. Hamilton: Integrated Segmentation and Interpolation of Sparse Data. IEEE Transactions on Image Processing (TIP), Vol. 23, Issue 1, pp. 110-125, 2014
 * A. Paiement, M. Mirmehdi, X. Xie, M. Hamilton: Simultaneous Level Set interpolation and segmentation of short- and long-axis MRI. Proceedings of Medical Image Understanding and Analysis (MIUA), pp. 267-272. 2010
-
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
