@@ -11,49 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc. in Astrophysics, [Université de Strasbourg](https://www.unistra.fr/iut-lps) and [Observatoire de Strasbourg](https://astro.unistra.fr/fr/), 2008
+* Engineer degree (MSc. level), [Ecole Nationale Supérieure de Physique de Strasbourg](https://www.telecom-physique.fr/), 2008
+* Ph.D in Computer Vision, [University of Bristol](https://www.bristol.ac.uk/), 2014
 
-Work experience
+Professional background
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2018: Associate professor, Université de Toulon, LIS laboratory (France)
+* 2016 - 2018: Assistant professor, Swansea University (UK)
+* 2013 - 2016: Postdoctoral research associate, University of Bristol (UK)
+* 2009 (6 months) & 2007 (3 months): Developer for Martian robotics, SciSys UK Ltd (Bristol, UK)
+* 2008 (6 months): Visiting researcher at Institute for Astronomy (Honolulu, Hawaii, USA) and International Space University (Strasbourg, France)
+* 2006 (2 months): Research Assistant at Strasbourg Observatory (France)
+  
+National and international research programs
+======
+* [PRESAGE](https://presage.lis-lab.fr/) 2021-2025 ANR JCJC (solar physics in collaboration with Observatoire de Paris)
+* [DRAGON-S](https://www.swansea.ac.uk/project-dragon-s/) 2020-2022 Co-I UNICEF/EVAC(https://www.end-violence.org/) (linguistic in collaboration with Swansea University)
+* MYOCARDE 2019-2022 Région SUD (medical imaging in collaboration with Bristol Heart Institute)
+* Academic collaborations: Observatoire de Strasbourg, Institut de Planétologie et d'Astrophysique de Grenoble (IPAG), Observatoire de Paris, Department of chemistry at Swansea University (UK) and University of Rostock (Germany), Jet Propulsion Laboratory at NASA (USA), Health & Care Research Wales (UK), Bristol Heart Institute (UK), Department of linguistics at Swansea University, Ubiquitous computing group at University of Rostock, Computer vision lab at University of Bristol, Department of law at Swansea University, Department of orthopaedics at Bristol Hospitals
+* Industrial collaborations: OceanNext, DATLAS, ACRI-ST
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
