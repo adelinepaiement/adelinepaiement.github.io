@@ -2,7 +2,7 @@
 title: "RégionPACA MyOCARdE 2019-2022"
 collection: research_human
 categories: human
-permalink: /projects/human/2019-myocarde
+permalink: /research/human/2019-myocarde
 ---
 
 MyOCARdE (2019-2022): Mesure de la fOnction Cardiaque basée sur l’AppREntissage -- A new learning-based measure for heart function
