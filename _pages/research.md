@@ -38,4 +38,4 @@ Ongoing projects -- Human sciences applications
 Past research -- Human sciences applications
 ======
 * Postdoc on project [SPHERE](https://research-information.bris.ac.uk/en/projects/sphere-epsrc-irc), computer vision workpackage (2013-2016)
-  ** Main activity: development of computer vision and machine learning methods for assessing the quality of movements in orthopaedic patients
+    * Main activity: development of computer vision and machine learning methods for assessing the quality of movements in orthopaedic patients
