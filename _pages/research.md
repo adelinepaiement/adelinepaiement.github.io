@@ -1,8 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research_physics/
-permalink: /research_human/
+permalink: /research/
 author_profile: true
 ---
 
@@ -29,7 +28,7 @@ Solar Physics
 ------
 
 {% include base_path %}
-{% for post in site.research_physics reversed %}
+{% for post in site.research.physics reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
@@ -69,7 +68,7 @@ Ongoing projects -- Human sciences applications
 ======
 
 {% include base_path %}
-{% for post in site.research_human reversed %}
+{% for post in site.research.human reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
