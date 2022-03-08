@@ -35,3 +35,7 @@ to make it more sensitive to the subtle clues of online grooming.
 <div style="text-align: justify">
 <strong> Role in the project:</strong>  Co-Investigator, Lead for Machine Learning and Spotter
 </div>
+
+<div style="text-align: justify">
+<strong> Preliminary studies:</strong>	Integrating corpus linguistic knowledge into deep learning methods: PhD supervision, Jay Morgan, 2018-2022
+</div>
