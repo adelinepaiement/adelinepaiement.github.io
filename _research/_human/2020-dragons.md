@@ -1,6 +1,7 @@
 ---
 title: "EVAC DRAGON-S 2020-2022"
 collection: research_human
+permalink: /projects/human/2020-dragons
 ---
 
 [DRAGON-S](https://www.swansea.ac.uk/project-dragon-s/) (2020-2022): Developing Resistance Against Grooming Online – Spot and Shield
