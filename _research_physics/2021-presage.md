@@ -29,5 +29,5 @@ PRESAGE brings together data scientists and solar physicists to develop new mach
 </div>
 
 <div style="text-align: justify">
-<strong> Preliminary studies:</strong> Localisation of solar active regions from multispectral images: PhD co-supervision, Majedaldein AlMahasneh, 2017-2022
+<strong> Preliminary study:</strong> PhD co-supervision: Localisation of solar active regions from multispectral images, Majedaldein AlMahasneh, 2017-2022
 </div>
