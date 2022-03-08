@@ -23,12 +23,19 @@ Research themes
 
 Ongoing projects -- Physics applications
 ======
+
 Solar Physics
 ------
+
 {% include base_path %}
 {% for post in site.research_physics reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+* Detection and characterisation of type II solar radio bursts
+    * MRes supervision, Joseph Jenkins, 2018-2019
+    * Collaboration with Observatoire de Paris and Space Environment Laboratory at Tokyo
+
 Planetology
 ------
 * Analysis of Martian terrains’ topography and composition from multispectral orbital images
@@ -50,21 +57,20 @@ Oceanography
     * PhD co-supervision, Joseph Jenkins, since 2020
     * Collaboration with MIO laboratory, OceanNext, DATLAS
 
+Chemistry
+------
+*	Prediction of chemical properties and discovery of new crystal structures using deep learning on graphs
+    * PhD supervision, Jay Morgan, 2018-2021
+    * Collaboration with the Departments of Chemistry at Swansea University (UK) and at University of Rostock (Germany)
+
 Ongoing projects -- Human sciences applications
 ======
+
 {% include base_path %}
 {% for post in site.research_human reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-Past research -- Physics applications
-======
-* Localisation of solar active regions from multispectral images
-    * PhD co-supervision, Majedaldein AlMahasneh, 2017-2022
-    * Collaboration with Observatoire de Paris
-* Detection and characterisation of type II solar radio bursts
-    * MRes supervision, Joseph Jenkins, 2018-2019
-    * Collaboration with Observatoire de Paris
 
 Past research -- Human sciences applications
 ======
