@@ -1,6 +1,5 @@
 ---
 title: "ANR PRESAGE 2021-2025"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: research_physics
 ---
 
