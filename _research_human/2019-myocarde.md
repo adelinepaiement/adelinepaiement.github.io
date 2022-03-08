@@ -23,5 +23,5 @@ This multidisciplinary project aims at developping a new measure for heart funct
 </div>
 
 <div style="text-align: justify">
-<strong> Preliminary study:</strong>  Modelling of cyclic heart deformations from cine MRIs: MRes supervision, Paul Stroe, 2017-2018
+<strong> Preliminary study:</strong>  MRes supervision: Modelling of cyclic heart deformations from cine MRIs, Paul Stroe, 2017-2018
 </div>
