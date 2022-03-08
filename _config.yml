@@ -227,10 +227,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _research_physics
   - scope:
       path: ""
-      type: research
+      type: research_physics
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _research_human
+  - scope:
+      path: ""
+      type: research_human
     values:
       layout: single
       author_profile: true
