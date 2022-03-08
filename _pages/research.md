@@ -29,7 +29,7 @@ Solar Physics
 ------
 
 {% include base_path %}
-{% for post in site.research.physics reversed %}
+{% for post in site.research_physics reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
@@ -69,7 +69,7 @@ Ongoing projects -- Human sciences applications
 ======
 
 {% include base_path %}
-{% for post in site.research.human reversed %}
+{% for post in site.research_human reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
