@@ -21,7 +21,7 @@ Research themes
 * Physics & astrophysics applications
 * Interpretable AI through the integration of domain knowledge into the design of AI methods
 
-Ongoing projects - Physics applications
+Ongoing projects -- Physics applications
 ======
 
 Solar Physics
@@ -63,7 +63,7 @@ Chemistry
     * PhD supervision, Jay Morgan, 2018-2021
     * Collaboration with the Departments of Chemistry at Swansea University (UK) and at University of Rostock (Germany)
 
-Ongoing projects - Human sciences applications
+Ongoing projects -- Human sciences applications
 ======
 
 {% include base_path %}
@@ -72,7 +72,7 @@ Ongoing projects - Human sciences applications
 {% endfor %}
 
 
-Past research - Human sciences applications
+Past research -- Human sciences applications
 ======
 * Postdoc on project [SPHERE](https://research-information.bris.ac.uk/en/projects/sphere-epsrc-irc), computer vision workpackage (2013-2016)
     * Main activity: development of computer vision and machine learning methods for assessing the quality of movements in orthopaedic patients
