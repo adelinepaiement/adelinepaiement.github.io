@@ -37,5 +37,10 @@ to make it more sensitive to the subtle clues of online grooming.
 </div>
 
 <div style="text-align: justify">
-<strong> Preliminary studies:</strong>	Integrating corpus linguistic knowledge into deep learning methods: PhD supervision, Jay Morgan, 2018-2022
+<strong> Preliminary studies:</strong>
 </div>
+<ol>
+  <li>PhD supervision: Integrating corpus linguistic knowledge into deep learning methods, Jay Morgan, 2018-2022</li>
+  <li>Cherish DE Escalator fund, worth £10K (PI): Co-developing machine learning and corpus linguistics tools for combating online grooming, 2017</li>
+  <li>Cherish DE Escalator fund, worth £10K (Co-I): Profiling online grooming communication, 2019</li>
+</ol>
