@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: /research_physics/
+permalink: /research_human/
 author_profile: true
 ---
 
