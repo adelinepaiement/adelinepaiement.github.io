@@ -1,7 +1,7 @@
 ---
 title: "ANR PRESAGE 2021-2025"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: research
+collection: research_physics
 ---
 
 [PRESAGE](https://presage.lis-lab.fr/) (2021-2025): PREdicting Solar Activity using machine learning on heteroGEneous data
