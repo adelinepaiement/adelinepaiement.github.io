@@ -1,7 +1,6 @@
 ---
 title: "ANR PRESAGE 2021-2025"
 collection: research_physics
-categories: physics
 permalink: /research/physics/2021-presage
 ---
 
