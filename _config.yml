@@ -181,10 +181,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research_physics:
     output: true
     permalink: /:collection/:path/
-  talks:
+  research_human:
     output: true
     permalink: /:collection/:path/
 
