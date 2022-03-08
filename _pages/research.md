@@ -8,11 +8,12 @@ author_profile: true
 My research is in data science and AI for scientific applications.
 It is by nature interdisciplinary.
 It focuses on developping computer vision, machine learning, and deep learning methods for analysing data from other sciences.
-The application domains that I consider are from two broad categories: sciences of the environment, and human sciences.
-There is a special focus on the (astro)physics and medical fields.
-My research is both applied and theoretical. It aims to develop new tools to support research in its application domains.
-It also aims to further developments in AI, motivated by new challenges from the scientific data.
+The application domains that I consider fit into two broad categories: physical sciences, and human sciences.
+There is a special focus on the astrophysics and medical fields.
+My research is both applied and theoretical. It aims to develop new tools to support research in the (physics and human science) application domains.
+It also aims to further develop AI methods, motivated by new challenges from the scientific data.
 One strong challenge, that is common to all considered application domains, is the need for interpretable methods and results.
+This is currently being addressed by the development of domain informed models, where domain knowledge is integrated into the design of learning methods.
 
 Research themes
 ======
