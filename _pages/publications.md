@@ -8,14 +8,14 @@ author_profile: true
 <div>You can also find my articles on <u><a href="https://scholar.google.com/citations?user=LvwLwnQAAAAJ&hl=fr">my Google Scholar profile</a>.</u></div>
 
 New publications and preprints
-======
+------
 * E. Sola, P.-A. Duc, F. Richards, A. Paiement, M. Urbano, J. Klehammer, M. Bílek, J.-C. Cuillandre, S. Gwyn, A. McConnachie: Characterization of Low Surface Brightness structures in annotated deep images, Astronomy & Astrophysics, 2022
 * M. Almahasneh, A. Paiement, X. Xie, J. Aboudarham: 	MSMT-CNN for solar active region detection with multi-spectral analysis. Springer Nature Computer Science, Special Issue Pattern Recognition Applications and Methods, 2022
 * M. Almahasneh, A. Paiement, X. Xie, J. Aboudarham: 	MLMT-CNN for object detection and segmentation in multi-layer and multi-spectral images. Machine Vision and Applications, 2021
 * M. Almahasneh, A. Paiement, X. Xie, J. Aboudarham: Active region detection in multi-spectral solar images, International Conference on Pattern Recognition Applications and Methods (ICPRAM), 2021 – Best paper award
 
 Selected publications
-======
+------
 * M. Almahasneh, A. Paiement, X. Xie, J. Aboudarham: 	MSMT-CNN for solar active region detection with multi-spectral analysis. Springer Nature Computer Science, Special Issue Pattern Recognition Applications and Methods, 2022
 * M. Almahasneh, A. Paiement, X. Xie, J. Aboudarham: Active region detection in multi-spectral solar images, International Conference on Pattern Recognition Applications and Methods (ICPRAM), 2021 – Best paper award
 * M. Almahasneh, A. Paiement, X. Xie, J. Aboudarham: 	MLMT-CNN for object detection and segmentation in multi-layer and multi-spectral images. Machine Vision and Applications, 2021
