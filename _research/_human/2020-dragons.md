@@ -1,6 +1,7 @@
 ---
 title: "EVAC DRAGON-S 2020-2022"
 collection: research_human
+categories: human
 permalink: /projects/human/2020-dragons
 ---
 
