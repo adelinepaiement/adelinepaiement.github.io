@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-
 My research is in data science and AI for scientific applications.
 It is by nature interdisciplinary.
 It focuses on developping computer vision, machine learning, and deep learning methods for analysing data from other sciences.
@@ -25,7 +23,8 @@ Research themes
 
 Ongoing projects
 ======
-{% for post in site.research %}
+{% include base_path %}
+{% for post in site.research reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
