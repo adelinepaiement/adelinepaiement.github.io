@@ -23,24 +23,32 @@ Research themes
 
 Ongoing projects -- Physics applications
 ======
-    Solar Physics
-    ======
+Solar Physics
+------
 {% include base_path %}
 {% for post in site.research_physics reversed %}
   {% include archive-single.html %}
 {% endfor %}
+Planetology
+------
 * Analysis of Martian terrains’ topography and composition from multispectral orbital images
     * PhD supervision, Kévin Kheng, since 2018
     * Collaboration with Institut de Planétologie et d’Astrophysique de Grenoble (IPAG) and ACRI-ST
+
+Galaxy evolution
+------
+* Characterisation of galaxy morphology
+    * PhD supervision, Felix Richards, since 2017
+    * Collaboration with Observatoire de Strasbourg and [MATLAS](http://obas-matlas.u-strasbg.fr/WP/)
+
+Oceanography
+------
 * Mapping of ocean dynamics from satellite images
     * PhD co-supervision, Laura Gibbs, since 2018
     * Collaboration with Department of Oceanography at University of Bristol
 * Prediction of Lagrangian drift at sea
     * PhD co-supervision, Joseph Jenkins, since 2020
     * Collaboration with MIO laboratory, OceanNext, DATLAS
-* Characterisation of galaxy morphology
-    * PhD supervision, Felix Richards, since 2017
-    * Collaboration with Observatoire de Strasbourg and [MATLAS](http://obas-matlas.u-strasbg.fr/WP/)
 
 Ongoing projects -- Human sciences applications
 ======
