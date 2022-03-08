@@ -21,10 +21,16 @@ Research themes
 * Physics & astrophysics applications
 * Interpretable AI through the integration of domain knowledge into the design of AI methods
 
-Ongoing projects
+Ongoing projects -- Physics applications
 ======
 {% include base_path %}
-{% for post in site.research reversed %}
+{% for post in site.research_physics reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
+Ongoing projects -- Human sciences applications
+======
+{% include base_path %}
+{% for post in site.research_human reversed %}
+  {% include archive-single.html %}
+{% endfor %}
