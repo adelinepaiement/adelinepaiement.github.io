@@ -9,13 +9,13 @@ redirect_from:
 
 
 Education
-======
+------
 * MSc. in Astrophysics, [Université de Strasbourg](https://www.unistra.fr/iut-lps) and [Observatoire de Strasbourg](https://astro.unistra.fr/fr/), 2008
 * Engineer degree (MSc. level), [Ecole Nationale Supérieure de Physique de Strasbourg](https://www.telecom-physique.fr/), 2008
 * Ph.D in Computer Vision, [University of Bristol](https://www.bristol.ac.uk/), 2014
 
 Professional background
-======
+------
 * Since 2018: Associate professor, Université de Toulon, LIS laboratory (France)
 * 2016 - 2018: Assistant professor, Swansea University (UK)
 * 2013 - 2016: Postdoctoral research associate, University of Bristol (UK)
@@ -24,7 +24,7 @@ Professional background
 * 2006 (2 months): Research Assistant at Strasbourg Observatory (France)
   
 National and international research programs
-======
+------
 * [PRESAGE](https://presage.lis-lab.fr/) 2021-2025 ANR JCJC (solar physics in collaboration with Observatoire de Paris)
 * [DRAGON-S](https://www.swansea.ac.uk/project-dragon-s/) 2020-2022 Co-I [UNICEF/EVAC](https://www.end-violence.org/) (linguistic in collaboration with Swansea University)
 * MYOCARDE 2019-2022 Région SUD (medical imaging in collaboration with Bristol Heart Institute)
