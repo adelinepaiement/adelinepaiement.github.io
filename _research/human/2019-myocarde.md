@@ -1,6 +1,6 @@
 ---
 title: "RégionPACA MyOCARdE 2019-2022"
-collection: research_human
+collection: research human
 categories: human
 permalink: /research/human/2019-myocarde
 ---
