@@ -1,10 +1,11 @@
 ---
-title: "EVAC DRAGON-S 2020-2022"
+title: "DRAGON-S: Developing Resistance Against Grooming Online -- Spot and Shield"
+funding: "UNICEF/EVAC 2020-2022"
 collection: research_human
 permalink: /research_human/2020-dragons
 ---
 
-[DRAGON-S](https://www.swansea.ac.uk/project-dragon-s/) (2020-2022): Developing Resistance Against Grooming Online – Spot and Shield
+UNICEF/[EVAC](https://www.end-violence.org/) [DRAGON-S](https://www.swansea.ac.uk/project-dragon-s/) 2020-2022
 
 Summary 
 ======
