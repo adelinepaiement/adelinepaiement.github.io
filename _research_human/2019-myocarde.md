@@ -9,21 +9,13 @@ Région PACA MyOCARdE 2019-2022
 
 Summary 
 ======
-<div style="text-align: justify"> 
+
 This multidisciplinary project aims at developping a new measure for heart function from cine-MRI based on a learning of ab/normal heart deformations during the cardiac cycle.
-</div>
 
-<div style="text-align: justify">
-<strong> Partner:</strong>  Bristol Heart Institute
-</div>
-<div style="text-align: justify">
-<strong> Funding body:</strong>  Région PACA
-</div>
+**Partner:**  Bristol Heart Institute
 
-<div style="text-align: justify">
-<strong> Role in the project:</strong>  Principal investigator
-</div>
+**Funding body:**  Région PACA
 
-<div style="text-align: justify">
-<strong> Preliminary study:</strong>  MRes supervision: Modelling of cyclic heart deformations from cine MRIs, Paul Stroe, 2017-2018
-</div>
+**Role in the project:**  Principal investigator
+
+**Preliminary study:**  MRes supervision: Modelling of cyclic heart deformations from cine MRIs, Paul Stroe, 2017-2018
