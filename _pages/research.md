@@ -27,7 +27,6 @@ Ongoing projects -- Physics applications
 
 Solar Physics
 ------
-
 {% include base_path %}
 {% for post in site.research_physics reversed %}
   <ul>
