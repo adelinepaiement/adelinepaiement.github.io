@@ -181,10 +181,13 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  research_physics:
+  research_solar:
     output: true
     permalink: /:collection/:path/
-  research_human:
+  research_medical:
+    output: true
+    permalink: /:collection/:path/
+  research_linguistic:
     output: true
     permalink: /:collection/:path/
 
