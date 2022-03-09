@@ -1,5 +1,5 @@
 ---
-title: "MyOCARdE: Mesure de la fOnction Cardiaque basée sur l’AppREntissage -- A new learning-based measure for heart function"
+title: "MyOCARdE: Mesure de la fOnction Cardiaque basée sur l’AppREntissage - A new learning-based measure for heart function"
 funding: "Région PACA 2019-2022"
 collection: research_medical
 permalink: /research_medical/2019-myocarde
