@@ -75,7 +75,12 @@ Ongoing projects -- Human sciences applications
 
 {% include base_path %}
 {% for post in site.research_human reversed %}
-  {% include archive-single.html %}
+  <ul>
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <ul>
+    <li>{{ post.funding }}</li>
+  </ul>
+  </ul>
 {% endfor %}
 
 
