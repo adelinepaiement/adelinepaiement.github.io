@@ -2,6 +2,7 @@
 layout: archive
 title: "PRESAGE: PREdicting Solar Activity using machine learning on heteroGEneous data"
 funding: "ANR JCJC 2021-2025"
+collab: "Collaboration with Observatoire de Paris"
 collection: research_solar
 permalink: /research_solar/2021-presage
 ---
