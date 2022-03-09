@@ -93,7 +93,7 @@ Research themes
   </ul>
 {% endfor %}
 
-# Past research
+# Past projects
 
 ## Physics applications
 
