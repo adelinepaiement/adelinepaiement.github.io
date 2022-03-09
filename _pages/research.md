@@ -34,6 +34,7 @@ Research themes
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   <ul>
     <li>{{ post.funding }}</li>
+    <li>{{ post.collab }}</li>
   </ul>
   </ul>
 {% endfor %}
@@ -74,6 +75,7 @@ Research themes
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   <ul>
     <li>{{ post.funding }}</li>
+    <li>{{ post.collab }}</li>
   </ul>
   </ul>
 {% endfor %}
@@ -86,6 +88,7 @@ Research themes
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   <ul>
     <li>{{ post.funding }}</li>
+    <li>{{ post.collab }}</li>
   </ul>
   </ul>
 {% endfor %}
