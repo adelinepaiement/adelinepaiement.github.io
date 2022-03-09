@@ -22,11 +22,12 @@ Research themes
 * Physics & astrophysics applications
 * Domain informed learning: interpretable AI through the integration of domain knowledge into the design of learning methods
 
-Ongoing projects -- Physics applications
-======
+#Ongoing projects
 
-Solar Physics
-------
+##Physics applications
+
+###Solar Physics
+
 {% include base_path %}
 {% for post in site.research_physics reversed %}
   <ul>
@@ -42,35 +43,34 @@ Solar Physics
     * MRes supervision, Joseph Jenkins, 2018-2019
     * Collaboration with Observatoire de Paris and Space Environment Laboratory at Tokyo
 
-Planetology
-------
+###Planetology
+
 * Analysis of Martian terrains’ topography and composition from multispectral orbital images
     * PhD supervision, Kévin Kheng, since 2018
     * Collaboration with Institut de Planétologie et d’Astrophysique de Grenoble (IPAG) and ACRI-ST
 
-Galaxy evolution
-------
+###Galaxy evolution
+
 * Characterisation of galaxy morphology
     * PhD supervision, Felix Richards, since 2017
     * Collaboration with Observatoire de Strasbourg and [MATLAS](http://obas-matlas.u-strasbg.fr/WP/)
 
-Oceanography
-------
-* Mapping of ocean dynamics from satellite images
-    * PhD co-supervision, Laura Gibbs, since 2018
-    * Collaboration with Department of Oceanography at University of Bristol
+###Oceanography
+
 * Prediction of Lagrangian drift at sea
     * PhD co-supervision, Joseph Jenkins, since 2020
     * Collaboration with MIO laboratory, OceanNext, DATLAS
+* Mapping of ocean dynamics from satellite images
+    * PhD co-supervision, Laura Gibbs, since 2018
+    * Collaboration with Department of Oceanography at University of Bristol
 
-Chemistry
-------
+###Chemistry
+
 *	Prediction of chemical properties and discovery of new crystal structures using deep learning on graphs
     * PhD supervision, Jay Morgan, 2018-2021
     * Collaboration with the Departments of Chemistry at Swansea University (UK) and at University of Rostock (Germany)
 
-Ongoing projects -- Human sciences applications
-======
+##Human sciences applications
 
 {% include base_path %}
 {% for post in site.research_human reversed %}
@@ -83,8 +83,10 @@ Ongoing projects -- Human sciences applications
 {% endfor %}
 
 
-Past research -- Human sciences applications
-======
+#Past research
+
+##Human sciences applications
+
 * Postdoc on project [SPHERE](https://research-information.bris.ac.uk/en/projects/sphere-epsrc-irc), computer vision workpackage (2013-2016)
     * Main activity: development of computer vision and machine learning methods for assessing the quality of movements in orthopaedic patients
 * PhD on medical image analysis
