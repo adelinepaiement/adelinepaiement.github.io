@@ -1,5 +1,5 @@
 ---
-layout: archive_research
+layout: archive
 title: "PRESAGE (2021-2025): PREdicting Solar Activity using machine learning on heteroGEneous data"
 collection: research_physics
 permalink: /research_physics/2021-presage
