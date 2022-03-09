@@ -1,6 +1,7 @@
 ---
 title: "DRAGON-S: Developing Resistance Against Grooming Online - Spot and Shield"
 funding: "UNICEF/EVAC 2020-2022"
+collab: "Collaboration with Department of Linguistic at Swansea University & TARIAN-ROCU"
 collection: research_linguistic
 permalink: /research_linguistic/2020-dragons
 ---
