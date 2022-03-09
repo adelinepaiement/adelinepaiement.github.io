@@ -39,7 +39,7 @@ Research themes
 {% endfor %}
 
 * Detection and characterisation of type II solar radio bursts
-    * CNRS-INS2I “Volet Emergence”, ERUPTION (dEtection de suRsaUts radio solaires par deeP learning avec inTegratION de principes physiques), 2020
+    * ERUPTION: dEtection de suRsaUts radio solaires par deeP learning avec inTegratION de principes physiques, CNRS-INS2I “Volet Emergence” 2020
     * MRes supervision, Joseph Jenkins, 2018-2019
     * Collaboration with Observatoire de Paris and Space Environment Laboratory at Tokyo
 
