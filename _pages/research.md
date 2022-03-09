@@ -31,7 +31,7 @@ Solar Physics
 {% include base_path %}
 {% for post in site.research_physics reversed %}
   <div class="project">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   </div>
 {% endfor %}
 
