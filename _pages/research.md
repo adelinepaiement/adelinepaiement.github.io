@@ -30,7 +30,9 @@ Solar Physics
 
 {% include base_path %}
 {% for post in site.research_physics reversed %}
-  {% include archive-single.html %}
+  <div class="project">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  </div>
 {% endfor %}
 
 * Detection and characterisation of type II solar radio bursts
