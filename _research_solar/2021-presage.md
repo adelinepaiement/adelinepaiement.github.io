@@ -2,8 +2,8 @@
 layout: archive
 title: "PRESAGE: PREdicting Solar Activity using machine learning on heteroGEneous data"
 funding: "ANR JCJC 2021-2025"
-collection: research_physics
-permalink: /research_physics/2021-presage
+collection: research_solar
+permalink: /research_solar/2021-presage
 ---
 
 ANR JCJC [PRESAGE](https://presage.lis-lab.fr/) 2021-2025
