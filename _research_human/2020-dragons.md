@@ -27,12 +27,8 @@ These elements of linguistic knowledge are being integrated into the design of a
 to make it more sensitive to the subtle clues of online grooming.
 </div>
 
-<div style="text-align: justify">
 <strong> Partners:</strong>  Department of Linguistic at Swansea University, TARIAN-ROCU
-</div>
-<div style="text-align: justify">
 <strong> Funding body:</strong>  UNICEF/[EVAC](https://www.end-violence.org/)
-</div>
 
 <div style="text-align: justify">
 <strong> Role in the project:</strong>  Co-Investigator, Lead for Machine Learning and Spotter
