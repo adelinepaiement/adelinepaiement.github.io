@@ -29,7 +29,7 @@ Research themes
 ### Solar Physics
 
 {% include base_path %}
-{% for post in site.research_physics reversed %}
+{% for post in site.research_solar reversed %}
   <ul>
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   <ul>
@@ -66,8 +66,22 @@ Research themes
 
 ## Human sciences applications
 
+### Medical
+
 {% include base_path %}
-{% for post in site.research_human reversed %}
+{% for post in site.research_medical reversed %}
+  <ul>
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <ul>
+    <li>{{ post.funding }}</li>
+  </ul>
+  </ul>
+{% endfor %}
+
+### Linguistic
+
+{% include base_path %}
+{% for post in site.research_linguistic reversed %}
   <ul>
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   <ul>
