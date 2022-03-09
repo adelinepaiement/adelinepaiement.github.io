@@ -32,6 +32,9 @@ Solar Physics
 {% for post in site.research_physics reversed %}
   <ul>
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <ul>
+    <li>{{ post.funding }}</li>
+  </ul>
   </ul>
 {% endfor %}
 
