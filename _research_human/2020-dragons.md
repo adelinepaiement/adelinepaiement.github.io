@@ -14,8 +14,8 @@ DRAGON-S brings together data scientists and linguists to develop new tools for 
 Online groomers use language to form a relationship with the children they prey on, to gain and then betray children’s trust.
 Project DRAGON-S is working to keep children safe from this form of technology-assisted child abuse.
 This is achieved through the development of two tools:
-* Shield: An online training portal for social workers, that will present the latest findings in linguistic research on online grooming
-* Spotter: An AI-powered tool that will help police investigators triage the huge amount of digital materials that are siezed during investigation.
+* **Shield:** An online training portal for social workers, that will present the latest findings in linguistic research on online grooming
+* **Spotter:** An AI-powered tool that will help police investigators triage the huge amount of digital materials that are siezed during investigation.
 
 The Spotter tool will be based on a novel hybrid model that combines deep learning and the latest linguistic findings
 on the language and conversational tactics that are used by online groomers.
