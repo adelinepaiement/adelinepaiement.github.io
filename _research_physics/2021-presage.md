@@ -1,11 +1,11 @@
 ---
 layout: archive_research
-title: "ANR PRESAGE 2021-2025"
+title: "PRESAGE (2021-2025): PREdicting Solar Activity using machine learning on heteroGEneous data"
 collection: research_physics
 permalink: /research_physics/2021-presage
 ---
 
-[PRESAGE](https://presage.lis-lab.fr/) (2021-2025): PREdicting Solar Activity using machine learning on heteroGEneous data
+ANR [PRESAGE](https://presage.lis-lab.fr/) 2021-2025
 
 Summary 
 ======
