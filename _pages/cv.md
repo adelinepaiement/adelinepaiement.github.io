@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ------
+* Ph.D in Computer Vision, [University of Bristol](https://www.bristol.ac.uk/), 2014
 * MSc. in Astrophysics, [Université de Strasbourg](https://www.unistra.fr/iut-lps) and [Observatoire de Strasbourg](https://astro.unistra.fr/fr/), 2008
 * Engineer degree (MSc. level), [Ecole Nationale Supérieure de Physique de Strasbourg](https://www.telecom-physique.fr/), 2008
-* Ph.D in Computer Vision, [University of Bristol](https://www.bristol.ac.uk/), 2014
 
 Professional background
 ------
