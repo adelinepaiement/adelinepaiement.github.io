@@ -227,19 +227,28 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research_physics
+  # _research_solar
   - scope:
       path: ""
-      type: research_physics
+      type: research_solar
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _research_human
+  # _research_medical
   - scope:
       path: ""
-      type: research_human
+      type: research_medical
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _research_linguistic
+  - scope:
+      path: ""
+      type: research_linguistic
     values:
       layout: single
       author_profile: true
