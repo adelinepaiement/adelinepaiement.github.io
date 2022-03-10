@@ -18,8 +18,8 @@ This is currently being addressed by the development of domain informed models, 
 Research themes
 ======
 * Computer vision, machine learning, deep learning
-* Human sciences & medical applications
 * Physics & astrophysics applications
+* Human sciences & medical applications
 * Domain informed learning: interpretable AI through the integration of domain knowledge into the design of learning methods
 
 # Ongoing projects
