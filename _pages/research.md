@@ -60,7 +60,7 @@ Research themes
 
 * Prediction of Lagrangian drift at sea
     * PhD co-supervision, Joseph Jenkins, since 2020
-    * Collaboration with MIO laboratory, OceanNext, DATLAS
+    * Collaboration with MIO laboratory, OceanNext, Datlas
 * Mapping of ocean dynamics from satellite images
     * PhD co-supervision, Laura Gibbs, since 2018
     * Collaboration with Department of Oceanography at University of Bristol
