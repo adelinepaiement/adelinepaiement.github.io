@@ -29,5 +29,5 @@ National and international research programs
 * [DRAGON-S](https://www.swansea.ac.uk/project-dragon-s/) 2020-2022 Co-I [UNICEF/EVAC](https://www.end-violence.org/) (linguistic in collaboration with Swansea University)
 * MYOCARDE 2019-2022 PI Région SUD (medical imaging in collaboration with Bristol Heart Institute)
 * Academic collaborations: Observatoire de Strasbourg, Institut de Planétologie et d'Astrophysique de Grenoble (IPAG), Observatoire de Paris, Department of chemistry at Swansea University (UK) and University of Rostock (Germany), Jet Propulsion Laboratory at NASA (USA), Health & Care Research Wales (UK), Bristol Heart Institute (UK), Department of linguistics at Swansea University, Ubiquitous computing group at University of Rostock, Computer vision lab at University of Bristol, Department of law at Swansea University, Department of orthopaedics at Bristol Hospitals
-* Industrial collaborations: OceanNext, DATLAS, ACRI-ST
+* Industrial collaborations: OceanNext, Datlas, ACRI-ST
 
