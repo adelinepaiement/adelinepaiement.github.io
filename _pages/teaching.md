@@ -32,7 +32,7 @@ Information theoretical grounds to AI and data science
 * since 2018
 
 Initiation to research
-* 2nd year computer science master
+* 1st and 2nd year computer science master
 * since 2018
 
 Research project
