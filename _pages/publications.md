@@ -9,6 +9,7 @@ author_profile: true
 
 New publications and preprints
 ------
+* F. Richards, E. Sola, A. Paiement, X. Xie, P.-A. Duc: Multi-scale gridded Gabor attention for cirrus segmentation. IEEE International Conference on Image Processing (ICIP), 2022
 * E. Sola, P.-A. Duc, F. Richards, A. Paiement, M. Urbano, J. Klehammer, M. Bílek, J.-C. Cuillandre, S. Gwyn, A. McConnachie: Characterization of Low Surface Brightness structures in annotated deep images, Astronomy & Astrophysics, 2022
 * M. Almahasneh, A. Paiement, X. Xie, J. Aboudarham: 	MSMT-CNN for solar active region detection with multi-spectral analysis. Springer Nature Computer Science, Special Issue Pattern Recognition Applications and Methods, 2022
 * M. Almahasneh, A. Paiement, X. Xie, J. Aboudarham: 	MLMT-CNN for object detection and segmentation in multi-layer and multi-spectral images. Machine Vision and Applications, 2021
