@@ -67,9 +67,9 @@ Data Mining
 * 2017-2018
 * Swansea University
 
-High performance computing	2016-2018 – 
+High performance computing 
 * Computer science and physics master
-* 2016 - 2018
+* 2016-2018
 * Swansea University
 
 Server software 
