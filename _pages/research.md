@@ -47,7 +47,7 @@ Research themes
 ### Planetology
 
 * Analysis of Martian terrains’ topography and composition from multispectral orbital images
-    * PhD supervision, Kévin Kheng, 2018-2022
+    * PhD co-supervision, Kévin Kheng, 2018-2022
     * Collaboration with Institut de Planétologie et d’Astrophysique de Grenoble (IPAG)
 
 ### Galaxy evolution
