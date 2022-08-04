@@ -47,13 +47,14 @@ Research themes
 ### Planetology
 
 * Analysis of Martian terrains’ topography and composition from multispectral orbital images
-    * PhD supervision, Kévin Kheng, since 2018
-    * Collaboration with Institut de Planétologie et d’Astrophysique de Grenoble (IPAG) and ACRI-ST
+    * PhD supervision, Kévin Kheng, 2018-2022
+    * Collaboration with Institut de Planétologie et d’Astrophysique de Grenoble (IPAG)
 
 ### Galaxy evolution
 
 * Characterisation of galaxy morphology
-    * PhD supervision, Felix Richards, since 2017
+    * SIDEREAL: phySics-Informed Deep nEuRal nEtwork for characterising gALaxy morphology, CNRS-MITI “Sciences pour l’IA, l’IA pour les sciences” 2022
+    * PhD supervision, Felix Richards, 2017-2022
     * Collaboration with Observatoire de Strasbourg and [MATLAS](http://obas-matlas.u-strasbg.fr/WP/)
 
 ### Oceanography
