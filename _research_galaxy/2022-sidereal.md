@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "SIDEREAL: phySics-Informed Deep nEuRal nEtwork for characterising gALaxy morphology"
 funding: "CNRS-MITI “Sciences pour l’IA, l’IA pour les sciences” 2022"
 collab: "Collaboration with Observatoire de Strasbourg"
