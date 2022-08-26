@@ -52,6 +52,17 @@ Research themes
 
 ### Galaxy evolution
 
+{% include base_path %}
+{% for post in site.research_galaxy reversed %}
+  <ul>
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <ul>
+    <li>{{ post.funding }}</li>
+    <li>{{ post.collab }}</li>
+  </ul>
+  </ul>
+{% endfor %}
+
 * Characterisation of galaxy morphology
     * SIDEREAL: phySics-Informed Deep nEuRal nEtwork for characterising gALaxy morphology, CNRS-MITI “Sciences pour l’IA, l’IA pour les sciences” 2022
     * PhD supervision, Felix Richards, 2017-2022
