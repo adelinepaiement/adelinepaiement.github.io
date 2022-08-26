@@ -63,11 +63,6 @@ Research themes
   </ul>
 {% endfor %}
 
-* Characterisation of galaxy morphology
-    * SIDEREAL: phySics-Informed Deep nEuRal nEtwork for characterising gALaxy morphology, CNRS-MITI “Sciences pour l’IA, l’IA pour les sciences” 2022
-    * PhD supervision, Felix Richards, 2017-2022
-    * Collaboration with Observatoire de Strasbourg and [MATLAS](http://obas-matlas.u-strasbg.fr/WP/)
-
 ### Oceanography
 
 * Prediction of Lagrangian drift at sea
