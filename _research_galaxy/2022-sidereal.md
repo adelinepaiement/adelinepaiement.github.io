@@ -28,7 +28,7 @@ stellar structures type and estimating morphology parameters, in order to obtain
 framework will account for our prior knowledge on the structure of the problem and on the interactions and interdependencies between the morphology types and
 parameters. This interdisciplinary work will bring together experts in data science and deep learning, and in galaxy imaging and evolution.
 
-**Partner:**  Observatoire de Strasbourg
+**Partner:**  Observatoire de Strasbourg and [MATLAS](http://obas-matlas.u-strasbg.fr/WP/)
 
 **Funding body:**  CNRS-MITI
 
