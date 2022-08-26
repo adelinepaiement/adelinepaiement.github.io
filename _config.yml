@@ -184,6 +184,9 @@ collections:
   research_solar:
     output: true
     permalink: /:collection/:path/
+  research_galaxy:
+    output: true
+    permalink: /:collection/:path/
   research_medical:
     output: true
     permalink: /:collection/:path/
@@ -234,6 +237,15 @@ defaults:
   - scope:
       path: ""
       type: research_solar
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _research_galaxy
+  - scope:
+      path: ""
+      type: research_galaxy
     values:
       layout: single
       author_profile: true
