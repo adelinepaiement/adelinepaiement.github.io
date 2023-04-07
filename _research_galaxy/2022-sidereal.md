@@ -1,12 +1,14 @@
 ---
 title: "SIDEREAL: phySics-Informed Deep nEuRal nEtwork for characterising gALaxy morphology"
-funding: "CNRS-MITI “Sciences pour l’IA, l’IA pour les sciences” 2022"
+funding: "<ul><li>CNRS-MITI “Sciences pour l’IA, l’IA pour les sciences” 2022</li><li>CNRS-MITI 80Prime 2023</li></ul>"
 collab: "Collaboration with Observatoire de Strasbourg and MATLAS"
 collection: research_galaxy
 permalink: /research_galaxy/2022-sidereal
 ---
 
 CNRS-MITI "Sciences pour l'IA, l'IA pour les sciences" SIDEREAL 2022
+
+CNRS-MITI 80Prime SIDEREAL 2023
 
 Summary 
 ======
