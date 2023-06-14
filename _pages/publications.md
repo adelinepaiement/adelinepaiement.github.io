@@ -9,6 +9,7 @@ author_profile: true
 
 New publications and preprints
 ------
+* F. Richards, A. Paiement, X. Xie, E. Sola, P.-A. Duc: Panoptic Segmentation of Galactic Structures in LSB Images. International Conference on Machine Vision Applications (MVA), 2023
 * J. Jenkins, A. Paiement, Y. Ourmieres, J. Lesommer, J. Verron, H. Glotin, C. Ubelmann: A DNN framework for learning lagrangian drift with uncertainty. Applied Intelligence, 2023
 * F. Richards, E. Sola, A. Paiement, X. Xie, P.-A. Duc: Multi-scale gridded Gabor attention for cirrus segmentation. IEEE International Conference on Image Processing (ICIP), 2022
 * E. Sola, P.-A. Duc, F. Richards, A. Paiement, M. Urbano, J. Klehammer, M. Bílek, J.-C. Cuillandre, S. Gwyn, A. McConnachie: Characterization of Low Surface Brightness structures in annotated deep images, Astronomy & Astrophysics, 2022
