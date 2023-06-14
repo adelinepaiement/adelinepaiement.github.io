@@ -10,6 +10,7 @@ redirect_from:
 
 Education
 ------
+* Habilitation à diriger des recherches, [Université de Toulon](https://www.univ-tln.fr/), 2023
 * Ph.D in Computer Vision, [University of Bristol](https://www.bristol.ac.uk/), 2014
 * MSc. in Astrophysics, [Université de Strasbourg](https://www.unistra.fr/iut-lps) and [Observatoire de Strasbourg](https://astro.unistra.fr/fr/), 2008
 * Engineer degree (MSc. level), [Ecole Nationale Supérieure de Physique de Strasbourg](https://www.telecom-physique.fr/), 2008
@@ -25,7 +26,8 @@ Professional background
   
 National and international research programs
 ------
-* SIDEREAL 2022 PI [CNRS-MITI “Sciences pour l’IA, l’IA pour les sciences”](https://miti.cnrs.fr/appel-projet/sciences-pour-lia-lia-pour-les-sciences/) (galaxy evolution in collaboration with Observatoire de Strasbourg)
+* SIDEREAL 2023-2024 PI CNRS-80 PRIME (galaxy evolution in collaboration with Observatoire de Strasbourg)
+* SIDEREAL 2022-2023 PI [CNRS-MITI “Sciences pour l’IA, l’IA pour les sciences”](https://miti.cnrs.fr/appel-projet/sciences-pour-lia-lia-pour-les-sciences/) (galaxy evolution in collaboration with Observatoire de Strasbourg)
 * [PRESAGE](https://presage.lis-lab.fr/) 2021-2025 PI ANR JCJC (solar physics in collaboration with Observatoire de Paris)
 * [DRAGON-S](https://www.swansea.ac.uk/project-dragon-s/) 2020-2022 Co-I [UNICEF/EVAC](https://www.end-violence.org/) (linguistic in collaboration with Swansea University)
 * MYOCARDE 2019-2022 PI Région SUD (medical imaging in collaboration with Bristol Heart Institute)
