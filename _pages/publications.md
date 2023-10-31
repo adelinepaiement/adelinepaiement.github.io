@@ -21,6 +21,7 @@ New publications and preprints
 
 Selected publications
 ------
+* J. Morgan, A. Paiement, C. Klinke: Domain-informed graph neural networks: a quantum chemistry case study. Neural Networks, 2023
 * J. Jenkins, A. Paiement, Y. Ourmieres, J. Lesommer, J. Verron, H. Glotin, C. Ubelmann: A DNN framework for learning lagrangian drift with uncertainty. Applied Intelligence, 2023
 * F. Richards, E. Sola, A. Paiement, X. Xie, P.-A. Duc: Multi-scale gridded Gabor attention for cirrus segmentation. IEEE International Conference on Image Processing (ICIP), 2022
 * M. Almahasneh, A. Paiement, X. Xie, J. Aboudarham: 	MSMT-CNN for solar active region detection with multi-spectral analysis. Springer Nature Computer Science, Special Issue Pattern Recognition Applications and Methods, 2022
