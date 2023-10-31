@@ -9,6 +9,7 @@ author_profile: true
 
 New publications and preprints
 ------
+* L. Gibbs, R. Bingham, A. Paiement: A novel filtering method for geodetic ocean surface currents using deep learning. Environmental Data Science, 2023
 * J. Morgan, A. Paiement, C. Klinke: Domain-informed graph neural networks: a quantum chemistry case study. Neural Networks, 2023
 * F. Richards, A. Paiement, X. Xie, E. Sola, P.-A. Duc: Panoptic Segmentation of Galactic Structures in LSB Images. International Conference on Machine Vision Applications (MVA), 2023
 * J. Jenkins, A. Paiement, Y. Ourmieres, J. Lesommer, J. Verron, H. Glotin, C. Ubelmann: A DNN framework for learning lagrangian drift with uncertainty. Applied Intelligence, 2023
