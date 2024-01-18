@@ -6,7 +6,7 @@ collection: research_mars
 permalink: /research_mars/2023-atlas
 ---
 
-Région Sud “Emploi Jeune Doctorant” 2023-2026
+Région Sud “Emploi Jeunes Doctorants” 2023-2026
 
 Co-funding of private company ACRI-ST
 
