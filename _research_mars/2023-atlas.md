@@ -1,6 +1,6 @@
 ---
 title: "ATLAS: computer vision and deep learning methods for Analysing mulTimodaL mArs imageS towards a global interpretation of martian terrain properties"
-funding: "<ul><li>Région Sud Emploi Jeune Doctorant 2023-2026</li><li>Co-financement de l'entreprise ACRI-ST</li></ul>"
+funding: "<ul><li>Région Sud "Emploi Jeunes Doctorants" 2023-2026</li><li>Co-financement de l'entreprise ACRI-ST</li></ul>"
 collab: "Collaboration with Institut de Planétologie et d'Astrophysique de Grenoble (IPAG)"
 collection: research_mars
 permalink: /research_mars/2023-atlas
@@ -51,7 +51,7 @@ This interdisciplinary work will bring together experts in data science and deep
 
 **Partner:**  Institut de Planétologie et d'Astrophysique de Grenoble (IPAG)
 
-**Funding body:**  Région Sud, co-funding of private company ACRI-ST
+**Funding body:**  Région Sud, co-funding by private company ACRI-ST
 
 **Role in the project:**  Principal Investigator
 
