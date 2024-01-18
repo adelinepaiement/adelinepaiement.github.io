@@ -26,7 +26,8 @@ Professional background
   
 National and international research programs
 ------
-* SIDEREAL 2023-2024 PI CNRS-80 PRIME (galaxy evolution in collaboration with Observatoire de Strasbourg)
+* ATLAS 2023-2026 PI Région Sud "Emploi Jeunes Doctorants"
+* SIDEREAL 2023-2026 PI CNRS-80 PRIME (galaxy evolution in collaboration with Observatoire de Strasbourg)
 * SIDEREAL 2022-2023 PI [CNRS-MITI “Sciences pour l’IA, l’IA pour les sciences”](https://miti.cnrs.fr/appel-projet/sciences-pour-lia-lia-pour-les-sciences/) (galaxy evolution in collaboration with Observatoire de Strasbourg)
 * [PRESAGE](https://presage.lis-lab.fr/) 2021-2025 PI ANR JCJC (solar physics in collaboration with Observatoire de Paris)
 * [DRAGON-S](https://www.swansea.ac.uk/project-dragon-s/) 2020-2022 Co-I [UNICEF/EVAC](https://www.end-violence.org/) (linguistic in collaboration with Swansea University)
