@@ -46,10 +46,17 @@ Research themes
 
 ### Planetology
 
-* Analysis of Martian terrains’ topography and composition from multispectral orbital images
-    * PhD co-supervision, Loïs Brun, since 2023
-    * PhD co-supervision, Kévin Kheng, 2018-2022
-    * Collaboration with Institut de Planétologie et d’Astrophysique de Grenoble (IPAG)
+{% include base_path %}
+{% for post in site.research_mars reversed %}
+  <ul>
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <ul>
+    <li>{{ post.funding }}</li>
+    <li>{{ post.collab }}</li>
+    <li>PhD co-supervision: Loïs Brun since 2023, Kévin Kheng 2018-2022</li>
+  </ul>
+  </ul>
+{% endfor %}
 
 ### Galaxy evolution
 
@@ -60,6 +67,7 @@ Research themes
   <ul>
     <li>{{ post.funding }}</li>
     <li>{{ post.collab }}</li>
+    <li>PhD co-supervision: Renaud Vancoellié since 2023, Felix Richards 2017-2022</li>
   </ul>
   </ul>
 {% endfor %}
