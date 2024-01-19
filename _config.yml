@@ -193,6 +193,9 @@ collections:
   research_medical:
     output: true
     permalink: /:collection/:path/
+  research_medical_past:
+    output: true
+    permalink: /:collection/:path/
   research_linguistic:
     output: true
     permalink: /:collection/:path/
@@ -267,6 +270,15 @@ defaults:
   - scope:
       path: ""
       type: research_medical
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _research_medical_past
+  - scope:
+      path: ""
+      type: research_medical_past
     values:
       layout: single
       author_profile: true
