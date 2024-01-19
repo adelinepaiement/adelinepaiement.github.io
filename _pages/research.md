@@ -125,5 +125,15 @@ Research themes
 
 * Postdoc on project [SPHERE](https://research-information.bris.ac.uk/en/projects/sphere-epsrc-irc), computer vision workpackage (2013-2016)
     * Main activity: development of computer vision and machine learning methods for assessing the quality of movements in orthopaedic patients from depth images.
+{% include base_path %}
+{% for post in site.research_medical_past reversed %}
+  <ul>
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <ul>
+    <li>{{ post.funding }}</li>
+    <li>{{ post.collab }}</li>
+  </ul>
+  </ul>
+{% endfor %}
 * PhD on medical image analysis
     * Development of computer vision methods for integrated registration, segmentation, and interpolation for 3D/4D modelling from spaced tomographic images. Main application to cardiac cine MRI.
