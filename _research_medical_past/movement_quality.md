@@ -48,18 +48,18 @@ contain only normal instances of the movement.
 
 The pose model is in the form of the pdf $f_{Y}\left(y\right)$ of a random variable $Y$ that takes as value $y=\mathbf{Y}$ our pose feature
 vector $\mathbf{Y}$. The quality of a new pose $y_t$ at frame $t$ is then assessed as the log-likelihood of being described by the pose
-model, i.e. $$\mbox{llh}_{\mbox{pose}}= \log f_{Y}\left(y_t\right) \; .$$
+model, i.e. $\mbox{llh}_{\mbox{pose}}= \log f_{Y}\left(y_t\right)$.
 
 The dynamics model is represented as the pdf $f_{Y_t}\left(y_t|y_1,\ldots,y_{t-1}\right)$ which describes the likelihood of a pose $y_t$
 at a new frame $t$ given the poses at the previous frames. In order to compute it, we introduce $X_t$ with value
 $x_t \in \left[0,1\right]$, which is the stage of the (periodic or non-periodic) movement at frame $t$. Note, in the case of periodic
 movements, this movement stage can also be seen as the phase of the movement’s cycle. Based on Markovian assumptions, we find that
-$f_{Y_t}\left(y_t|y_1,\ldots,y_{t-1}\right) \approx f_{Y_t}\left(y_t|\hat{x}_t\right) f_{X_t}\left(\hat{x}_t|\hat{x}_{t-1}\right)$,
-with $\hat{x}_t$ an approximation of $x_t$ that minimises $f_{\left\{X_0,\ldots,X_t\right\}}\left(x_0,\ldots,x_t|y_1,\ldots,y_t\right)$.
+$f_{Y_t}\left(y_t|y_1,\ldots,y_{t-1}\right) \approx f_{Y_t}\left(y_t|\hat{x_t}\right) f_{X_t}\left(\hat{x_t}|\hat{x_{t-1}}\right)$,
+with $\hat{x_t}$ an approximation of $x_t$ that minimises $f_{\left\{X_0,\ldots,X_t\right\}}\left(x_0,\ldots,x_t|y_1,\ldots,y_t\right)$.
 $f_{Y_t}\left(y_t|x_t\right)$ is learnt from training sequences using Parzen window estimation, while $f_{X_t}\left(x_t|x_{t-1}\right)$
 is set analytically so that $x_t$ evolves steadily during a movement. The dynamics quality is then assessed as the log-likelihood of the
 model describing a sequence of poses within a window of size $\omega$:
-$\mbox{llh}_{\mbox{dyn}} \approx \frac{1}{\omega} \sum_{i=t-\omega+1}^{t} \log\left( f_{Y_i}\left(y_i|x_i\right) f_{X_i}\left(x_i|x_{i-1}\right) \right)$.
+$\mbox{llh_{\mbox{dyn}}} \approx \frac{1}{\omega} \sum_{i=t-\omega+1}^{t} \log\left( f_{Y_i}\left(y_i|x_i\right) f_{X_i}\left(x_i|x_{i-1}\right) \right)$.
 
 Two thresholds on the two likelihoods, determined empirically, are used to classify the gait being normal and abnormal.
 Thresholds on the derivatives of the log-likelihoods allow refining the detections of abnormalities and of returns to normal.
@@ -71,9 +71,9 @@ In order to analyse the quality of gait of subjects walking up stairs, we build 
 from 6 healthy subjects having no injury or disability, from which we extract 42 gait cycles.
 
 We first prove the ability of our model to generalise to the gait of new subjects by evaluating the 13 normal gait sequences of 6 new
-subjects. As illustrated in the figures below, the normal gaits of new persons are well represented by the model, with the two likelihoods
-(middle and bottom rows) staying above the thresholds (dotted lines). In only one sequence out of all 13 did the likelihood drop slightly
-under the threshold (frames 45–47 of the right-hand side figure) due to particularly noisy skeletons.
+subjects. As illustrated in the figures below, the normal gaits of new persons are well represented by the model, with the two 
+likelihoods (middle and bottom rows) staying above the thresholds (dotted lines). In only one sequence out of all 13 did the likelihood
+drop slightly under the threshold (frames 45–47 of the right-hand side figure) due to particularly noisy skeletons.
 
 ![Example 1 of results on normal gait](Dima_embed_stair_Normal2_results.png) ![Example 2 of results on normal gait](Dima_embed_stair_Normal1_results.png)
 
