@@ -90,7 +90,11 @@ step (middle figure below).
 In all three cases, the pose of the subject is always normal, but its dynamics is affected by either the use of the unexpected leg
 (LL and RL) or by the (temporary) complete stop of the movement.
 
-![Example of results on LL gait](Lili_embed_stair_LL_results_short_x-337x600.png) ![Example of results on RL gait](David_embed_stair_RL_results_short_x-337x600.png) ![Example of results on FoG gait](Yangdi_embed_stair_Stop2_results_short_x-337x600.png)
+<p align="center">
+<img src="Lili_embed_stair_LL_results_short_x-337x600.png" alt="Example of results on LL gait" style="width:40%">
+<img src="David_embed_stair_RL_results_short_x-337x600.png" alt="Example of results on RL gait" style="width:40%">
+<img src="Yangdi_embed_stair_Stop2_results_short_x-337x600.png" alt="Example of results on FoG gait" style="width:40%">
+</p>
 
 In our tests, these abnormal events are detected by our method with a rate of 0.93, with the likelihood dropping at all but 2 gait cycles
 in the LL and RL cases, and during the stops in the FoG case. Table 1 summarises the detection rates of abnormal events by our method.
@@ -112,7 +116,11 @@ at its starting value for a few frames, and then deviating. Our stopping conditi
 For our experiments, a qualified physiotherapist simulates abnormal sitting and standing movements, such as a loss of balance while 
 standing up that leads to an exaggerated inclination of the torso, as illustrated in the figures below. The left-hand side figure shows normal sitting and standing movements. The middle figure shows an abnormal standing movement: the subject loses their balance and leans forward. The right-hand side figure shows a difficult standing movement: the subject fails on their first attempt to stand up. This failure is detected and the tracking stops. It resumes on the second attempt, and detects the torso leaning forward exaggeratedly.
 
-![Example of normal sitting and standing movements](sitstand_normal3_results.png) ![Example of abnormal standing movement](sitstand_Head_forward_stand_results-431x600.png) ![Example of abnormal standing movement 2](sitstand_Difficulty_stand_results-431x600.png)
+<p align="center">
+<img src="sitstand_normal3_results.png" alt="Example of normal sitting and standing movements" style="width:40%">
+<img src="sitstand_Head_forward_stand_results-431x600.png" alt="Example of abnormal standing movement" style="width:40%">
+<img src="sitstand_Difficulty_stand_results-431x600.png" alt="Example of abnormal standing movement 2" style="width:40%">
+</p>
 
 ### Sport boxing
 
