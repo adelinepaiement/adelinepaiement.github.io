@@ -1,6 +1,6 @@
 ---
 title: "Online quality assessment of human movements from Kinect skeleton data"
-funding: "project [SPHERE](https://research-information.bris.ac.uk/en/projects/sphere-epsrc-irc), computer vision workpackage"
+funding: Project [SPHERE](https://research-information.bris.ac.uk/en/projects/sphere-epsrc-irc), computer vision workpackage
 collection: research_medical_past
 permalink: /research_medical_past/movement_quality
 ---
