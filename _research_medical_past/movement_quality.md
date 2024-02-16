@@ -75,7 +75,10 @@ subjects. As illustrated in the figures below, the normal gaits of new persons a
 likelihoods (middle and bottom rows) staying above the thresholds (dotted lines). In only one sequence out of all 13 did the likelihood
 drop slightly under the threshold (frames 45–47 of the right-hand side figure) due to particularly noisy skeletons.
 
-![Example 1 of results on normal gait](Dima_embed_stair_Normal2_results.png) ![Example 2 of results on normal gait](Dima_embed_stair_Normal1_results.png)
+<p align="center">
+<img src="Dima_embed_stair_Normal2_results.png" alt="Example 1 of results on normal gait" style="width:20%">
+<img src="Dima_embed_stair_Normal1_results.png" alt="Example 2 of results on normal gait" style="width:20%">
+</p>
 
 Next, we apply our proposed method to three types of abnormal gaits, illustrated in the next figures:
 * “Left leg Lead” (LL) abnormal gait: the subjects walk up the stairs always initially using their left leg to move to the next upper
