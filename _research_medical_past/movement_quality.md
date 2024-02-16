@@ -76,8 +76,8 @@ likelihoods (middle and bottom rows) staying above the thresholds (dotted lines)
 drop slightly under the threshold (frames 45–47 of the right-hand side figure) due to particularly noisy skeletons.
 
 <p align="center">
-<img src="Dima_embed_stair_Normal2_results.png" alt="Example 1 of results on normal gait" style="width:20%">
-<img src="Dima_embed_stair_Normal1_results.png" alt="Example 2 of results on normal gait" style="width:20%">
+<img src="Dima_embed_stair_Normal2_results.png" alt="Example 1 of results on normal gait" style="width:40%">
+<img src="Dima_embed_stair_Normal1_results.png" alt="Example 2 of results on normal gait" style="width:40%">
 </p>
 
 Next, we apply our proposed method to three types of abnormal gaits, illustrated in the next figures:
