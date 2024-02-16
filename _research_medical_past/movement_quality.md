@@ -59,7 +59,7 @@ with $\hat{x_t}$ an approximation of $x_t$ that minimises $f_{\left\\{X_0,\ldots
 $f_{Y_t}\left(y_t|x_t\right)$ is learnt from training sequences using Parzen window estimation, while $f_{X_t}\left(x_t|x_{t-1}\right)$
 is set analytically so that $x_t$ evolves steadily during a movement. The dynamics quality is then assessed as the log-likelihood of the
 model describing a sequence of poses within a window of size $\omega$:
-$llh_{dyn} \approx \frac{1}{\omega} \sum_{i=t-\omega+1}^{t} \log\left( f_{Y_i}\left(y_i|x_i\right) f_{X_i}\left(x_i|x_{i-1}\right) \right)$.
+$llh_{dyn} \approx \frac{1}{\omega} {\sum_{i=t-\omega+1}}^t \log\left( f_{Y_i}\left(y_i|x_i\right) f_{X_i}\left(x_i|x_{i-1}\right) \right)$.
 
 Two thresholds on the two likelihoods, determined empirically, are used to classify the gait being normal and abnormal.
 Thresholds on the derivatives of the log-likelihoods allow refining the detections of abnormalities and of returns to normal.
